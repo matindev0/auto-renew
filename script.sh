@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # زانیارییەکان ڕاستەوخۆ لێرەدا بنووسە
-BOT_TOKEN="your_telegram_bot_token"
-SITE_KEY="your_site_key"
-CAPTCHA_API_KEY="your_2captcha_api_key"
-USERNAME="your_username"
-PASSWORD="your_password"
+BOT_TOKEN="7439944549:AAHDZsF5SJXcCIqA9Zo5zvh_MZ6-iZjTJ0U"
+SITE_KEY="6Ld8G_wqAAAAAC0jcDbf4jGTH2thSVJte8jAEslC"
+CAPTCHA_API_KEY="6Ld8G_wqAAAAACPRnT_KXxReAU0AdkMbUZ-9mqP_"
+USERNAME="matindev"
+PASSWORD="Matinnajat1762003$$"
 
 # فەرمانەکانی Node.js لە bash
 node <<EOF
